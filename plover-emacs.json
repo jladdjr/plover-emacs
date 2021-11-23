@@ -35,6 +35,7 @@
 "KWR-PBG"  : "{^}{#Control_L(y)}{^}",
 "STKPW-PBG": "{^}{#Control_L(z)}{^}",
 "SP-PBG": "{^}{#Control_L(Space)}{^}",
+"SPW-PBG": "{^}{#Control_L(Return)}{^}",
 
 "TPW" : "{^}{#Alt_L()}{^}",
 "-PBL": "{^}{#Alt_L()}{^}",
